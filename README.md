@@ -36,7 +36,7 @@ License: MIT
 
 * Make sure that both Docker and docker-compose are installed in your system.
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Django-Geoapp.git
+* Clone the repository: git clone https://github.com/Moustafa-Shaaban/Django-Geoapp.git
 
 * Change directory to backend directory ``` cd backend ```
 
